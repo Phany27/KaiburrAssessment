@@ -11,6 +11,46 @@ A Java Spring Boot REST API for managing shell command tasks with MongoDB storag
 - **REST API**: Full RESTful API with proper HTTP status codes
 - **Docker Support**: Easy setup with Docker Compose
 
+
+## Output
+![Screenshot](https://github.com/Phany27/KaiburrAssessment/blob/main/output/Screenshot%202025-09-28%20212555.png)
+
+
+![Screenshot](https://github.com/Phany27/KaiburrAssessment/blob/main/output/Screenshot%202025-09-28%20212605.png)
+
+
+![Screenshot](https://github.com/Phany27/KaiburrAssessment/blob/main/output/Screenshot%202025-09-28%20212740.png)
+
+
+![Screenshot](https://github.com/Phany27/KaiburrAssessment/blob/main/output/Screenshot%202025-09-28%20212832.png)
+
+
+![Screenshot](https://github.com/Phany27/KaiburrAssessment/blob/main/output/Screenshot%202025-09-28%20212851.png)
+
+
+![Screenshot](https://github.com/Phany27/KaiburrAssessment/blob/main/output/Screenshot%202025-09-28%20212913.png)
+
+
+![Screenshot](https://github.com/Phany27/KaiburrAssessment/blob/main/output/Screenshot%202025-09-28%20213208.png)
+
+
+![Screenshot](https://github.com/Phany27/KaiburrAssessment/blob/main/output/Screenshot%202025-09-28%20213330.png)
+
+
+![Screenshot](https://github.com/Phany27/KaiburrAssessment/blob/main/output/Screenshot%202025-09-28%20213419.png)
+
+
+![Screenshot](https://github.com/Phany27/KaiburrAssessment/blob/main/output/Screenshot%202025-09-28%20213551.png)
+
+
+
+
+
+
+
+
+
+
 ## Project Structure
 
 ```
